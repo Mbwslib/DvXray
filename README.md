@@ -4,4 +4,4 @@ Here is the main code and the test set of our DvXray, we will release the entire
 
 # Download 
 
-Download the test set of our dataset from [[Dataset]](https://pan.baidu.com/s/11jMmECsjvW49N1NwLb8iIg?pwd=vnyw)
+Download the test set of our dataset from [[Dataset]](https://pan.baidu.com/s/1vGyN3wKW1oDh2oFJjJdFjw?pwd=qlzj)
