@@ -4,4 +4,4 @@ The entire DvXray dataset is updated! Note that we also update the bounding-box 
 
 # Download 
 
-Download the entire DvXray dataset from [[Dataset]](https://pan.baidu.com/s/1vGyN3wKW1oDh2oFJjJdFjw?pwd=qlzj)
+Download the entire DvXray dataset from [[Dataset]](https://pan.baidu.com/s/1F7mssmD_Z7hNX-9sakafuA?pwd=dg3r)(https://pan.baidu.com/s/1uKIfgO8nfB9SQg6k7sskzQ?pwd=xlnn)
